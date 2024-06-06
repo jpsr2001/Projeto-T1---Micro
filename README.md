@@ -8,6 +8,9 @@ Nome: Estevan Delazari Feher - 21.00586-9
 
 ![image](https://github.com/jpsr2001/Projeto-T1---Micro/assets/101599939/09069ca6-42be-45f2-95ba-510590925786)
 
+![Imagem do WhatsApp de 2024-06-05 à(s) 22 19 23_b098e94c](https://github.com/jpsr2001/Projeto-T1---Micro/assets/101599939/563a2290-5795-49a5-bbcb-4c8043e6688d)
+
+
 Vídeo explicando o funcionamento:
 https://youtu.be/_pxz0-2w-4M
 
