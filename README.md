@@ -6,7 +6,7 @@ Nome: Carlos Augusto Freire Maia de Oliveira - 21.00781-0
 Nome: Gabriel Zendoni Allevi - 21.01350-0
 Nome: Estevan Delazari Feher - 21.00586-9
 
-Foto do Projeto: 
+Foto do Projeto:
 ![image](https://github.com/jpsr2001/Projeto-T1---Micro/assets/101599939/09069ca6-42be-45f2-95ba-510590925786)
 
 Vídeo explicando o funcionamento:
